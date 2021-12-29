@@ -34,7 +34,7 @@
   "sourceMap": "66:244:0:-;;132:2:-1;166:7;155:9;146:7;137:37;255:7;249:14;246:1;241:23;235:4;232:33;222:2;;269:9;222:2;293:9;290:1;283:20;323:4;314:7;306:22;347:7;338;331:24",
   "deployedSourceMap": "66:244:0:-;;;;;;;;;;;;;;;;;;;;;;;;176:132;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;176:132:0;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;247:20;290:14;281:6;:23;274:30;;176:132;;;;:::o",
   "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.4.25 <0.7.0;\n\nlibrary ConvertLib{\n\t// PURE functions: DO NOT read or modify the state variables\n\t// Example: 2 numbers SUM\n\tfunction convert(uint amount,uint conversionRate) public pure returns (uint convertedAmount)\n\t{\n\t\treturn amount * conversionRate;\n\t}\n}\n",
-  "sourcePath": "/home/blockchain/EDVDemoCoin/contracts/ConvertLib.sol",
+  "sourcePath": "/home/blockchain/EdvDemoCoin/contracts/ConvertLib.sol",
   "ast": {
     "absolutePath": "project:/contracts/ConvertLib.sol",
     "exportedSymbols": {
@@ -481,7 +481,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.4",
-  "updatedAt": "2021-12-29T14:41:51.721Z",
+  "updatedAt": "2021-12-29T16:10:12.885Z",
   "devdoc": {
     "methods": {}
   },
