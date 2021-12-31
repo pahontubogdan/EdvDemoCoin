@@ -1,1 +1,1 @@
-# edvDemoCoin
+# EdvDemoCoin
